@@ -13,7 +13,7 @@ angular.module('app').controller('DemoCtrl',function($interval,$scope,notify,dat
         
       
 
-        if($scope.minutosAtual == 46 && $scope.SegundosAtual == 0)
+        if($scope.minutosAtual == 12 && $scope.SegundosAtual == 0)
         {
 
              function demoMessageTemplate(){
